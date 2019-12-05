@@ -6,3 +6,6 @@
 *.pot
 *.pyc
 __pycache__/
+
+### Environment variables ###
+local_settings.py
